@@ -1,3 +1,5 @@
+import json
+
 from bilibili_api import user
 from bilibili_api.user import MedialistOrder
 from bilibili_api.utils.network import Credential
@@ -48,6 +50,11 @@ async def main():
     page_count = 0
     max_pages = 100000  # 限制最大页数，避免无限循环
 
+    data_file = "data.json"
+    # 运行爬虫前的初始化：清空文件
+    with open(data_file, "w", encoding="utf-8") as f:
+        pass  # 打开即清空，什么都不用写
+
     while page_count < max_pages:
         try:
             # 使用get_media_list方法
@@ -63,6 +70,8 @@ async def main():
 
             # 打印API返回的结构，以便调试
             print(f"API返回结构的键: {list(video_list.keys())}")
+            with open(data_file, "a", encoding="utf-8") as f:
+                f.write(json.dumps(video_list, ensure_ascii=False) + "\n")
 
             # 检查是否有视频
             if "media_list" not in video_list or not video_list["media_list"]:
@@ -77,31 +86,29 @@ async def main():
                     f"视频{i + 1}: 标题={v.get('title', '无标题')}, UP主ID={v.get('upper', {}).get('mid', '无ID')}, 分区ID={v.get('tid', '无分区')}, BV号={v.get('bv_id', '无BV号')}"
                 )
                 # 检查是否是目标UP主的视频
-                if v.get("upper", {}).get("mid") == uid:
-                    # 检查是否是音乐分区的视频
-                    if v.get("tid") in [28, 31]:  # 28是音乐分区的tid
-                        # 使用bv_id字段获取BV号
-                        if "bv_id" in v:
-                            # 提取标题
-                            title = ""
-                            video_title = v.get("title", "")
-                            # 尝试从《》【】...中提取标题
-                            for l, r in [
-                                ("《", "》"),
-                                ("【", "】"),
-                                ("〖", "〗"),
-                                ("『", "』"),
-                                ("「", "」"),
-                            ]:
-                                s, e = video_title.find(l), video_title.find(r)
-                                if s < e != -1:
-                                    title = video_title[s + 1 : e]
-                                    break
-                            title = (
-                                video_title if not title or title in up_name else title
-                            )
-                            # 添加到视频列表
-                            videos.append((v["bv_id"], title))
+                # if v.get("upper", {}).get("mid") == uid:
+                # 检查是否是音乐分区的视频
+                if v.get("tid") in [27, 28, 31]:  # 28是音乐分区的tid
+                    # 使用bv_id字段获取BV号
+                    if "bv_id" in v:
+                        # 提取标题
+                        title = ""
+                        video_title = v.get("title", "")
+                        # 尝试从《》【】...中提取标题
+                        for l, r in [
+                            ("《", "》"),
+                            ("【", "】"),
+                            ("〖", "〗"),
+                            ("『", "』"),
+                            ("「", "」"),
+                        ]:
+                            s, e = video_title.find(l), video_title.find(r)
+                            if s < e != -1:
+                                title = video_title[s + 1 : e]
+                                break
+                        title = video_title if not title or title in up_name else title
+                        # 添加到视频列表
+                        videos.append((v["bv_id"], title))
 
             # 获取下一页的oid
             if "has_more" in video_list and video_list["has_more"]:
