@@ -51,7 +51,7 @@ async function replaceWithBV() {
         if (songToBVMap.size === 0) {
             return 'No songs with BV numbers found in selected playlist.';
         }
-        await searchAndReplace(/(^.+)(\d{2}:\d{2}:\d{2})\s+(.+)/gm, (match, lineStart, timePart, songPart) => {
+        await searchAndReplace(/(^.*)(\d{2}:\d{2}:\d{2})\s+(.+)/gm, (match, lineStart, timePart, songPart) => {
             // Extract song name (remove any existing BV numbers)
             const cleanSongName = songPart.replace(/BV\w+/g, '').trim();
             const lowerSongName = cleanSongName.toLowerCase();
@@ -202,7 +202,8 @@ function parseTimeAdjustment(adjustmentStr) {
     }
 
     // Check if any valid components were found
-    return totalSeconds !== 0 ? totalSeconds : null;
+    // return totalSeconds !== 0 ? totalSeconds : null;
+    return totalSeconds;
 }
 
 /**
