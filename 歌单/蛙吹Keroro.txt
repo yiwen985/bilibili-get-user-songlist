@@ -1,71 +1,184 @@
-BV1MsBxB2EGu, IRIS OUT
-BV1KQkyByEoo, Kyashana Lip/奢华口红
-BV1GuxazoEsC, 寄り酔い
-BV1QKaGzUE5z, 恋人
-BV1JVexzuELw, Over Now
-BV1PPbBzKE6p, Birthday
-BV1j1bEziEHM, サマータイムレコード/夏日记录/夏令时记录
-BV1ath8zeERh, おちゃめ機能/天真烂漫机能
-BV19vKizdEm9, 炎
-BV1Tm5QzVEJG, モニタリング/视奸
-BV1gsR3YZEt2, 放手一搏
-BV14ScLeUE4P, 花之塔/花の塔
-BV1EQCEYAEgX, 水の星へ愛をこめて/水星爱
-BV1TEqDYWEdJ, Oz.
-BV1Ar4y1p7iE, ドライフラワー
-BV1Ar4y1p7iE, 干花
-BV1nJz3YTE1C, 年轮
-BV1n7ykYBEqQ, 恋夢(恋梦)/恋梦
-BV1E6pqeDEM8, Avid
-BV19Upqe5ECt, 雨爱
-BV1By411i7Vw, Pocket Locket
-BV1Py411i7ri, Snowman
-BV1kH4y1F74b, 不完美小孩
-BV1mw4m1a7b4, 路过人间
-BV1LZ42147Hf, 你是我的风景
-BV1zj421U7VL, 白鸟过河滩
-BV1Up4y1f71S, know me...
-BV1uc411y7yU, 泪桥
-BV1yu4y1972M, Shooting Star
-BV1k841117Hb, Either Way
-BV12h4y127Jm, 爱人呢
-BV1ZX4y1j7CT, 在夜里跳舞
-BV1cL411h7Nh, La La Land
-BV1fy4y1D7EG, 我愛你-上海蟹-
-BV1CG4y1X7aX, 雨下一整晚
-BV1he4y1s7MS, CH4NGE
-BV1Rv4y1S7Ak, 时候
-BV18G4y1n7M9, 唯一
-BV14D4y1r7q7, 我怀念的
-BV1Ym4y1A78T, 反方向的钟
-BV1hR4y1R7Rz, Six Feet Under
-BV1im421M7D7, 如果能成为你的女友/君の彼女
-BV1y4x9eLENT, 夏霞
-BV1ee411n7At, フラジール
-BV1ee411n7At, 易碎
-BV1ZAS9Y5EDm, ソラゴト
-BV1be6wYfEBn, Kiss Me More
-BV1tG411X7iw, ひつじがいっぴき
-BV1Nz4y1A7rf, 少女レイ
-BV1J84y1u7R6, ダンス・ダンス・ダダ
-BV1vP411u7bA, 秋绪/秋緒
-BV1i84y1N7Je, 星座になれたら
-BV17Z4y147v3, One Last Kiss
-BV17i4y1m7rr, HIP
-BV1uU4y1o7gC, 踊
-BV1DY411G7Vb, 雛鳥
-BV1L34y1y7gq, secret base～君がくれたもの～
-BV1gq4y1V7qW, Midnight Call
-BV1bq4y1C7Jq, ねぇねぇねぇ。
-BV1bq4y1C7Jq, 呐呐呐
-BV1ef4y1Y7pK, 再会
-BV16Y411t7sY, 吉祥话
-BV1Ub4y147Ss, We Don't Talk About Bruno
-BV1dK4y1u7mF, 君がいて水になる
-BV1dK4y1u7mF, 有你在即可化成水
-BV1Kv411v7QW, Nano
-BV1Dp4y1B7Ud, Main Actor
-BV11A411J7G7, Departures ~あなたにおくるアイの歌~
-BV18t4y197cC, 丸ノ内サディスティック/丸之内虐待狂
-BV1Kk4y127qZ, 恋しくて
-BV1sbNDe9Epx, クリティカルヒット/会心一击
+BV1Up64BXE3b, 「蛙做拿手菜」年夜饭灵感 🍎苹果红烧肉🤤红红火火！
+BV1KAigBZExo, 这是粉丝们拍下来的2025
+BV1MsBxB2EGu, 喜欢你😍喜欢你😍好想吐🤮喜欢你😍喜欢你 😍《Iris Out》翻唱/Iris Out
+BV1QRm4BjES5, 旅行青蛙·扬州篇~ 喜欢瘦西湖！吃传闻中的扬州炒饭
+BV1KQkyByEoo, 用我的吻给你印上口红吧。💄慵懒双女声「奢华口红」翻唱/奢华口红/華奢なリップ/Kyashana Lip
+BV1GuxazoEsC, “今晚…送我回家吧”  夏日花火的那个夜晚。/寄り酔い/寄醉
+BV1QFnBzbEnn, 「蛙做拿手菜」ep3. 海鲜豆面！粉丝投稿的台州菜耶
+BV15tn3zxEyT, 心碎和声弹唱|爱你越久我越被动·赫拉Kris×蛙吹Keroro/被动
+BV179pMzZEiT, 「蛙做拿手菜」SP: 丝瓜汤 “肝火太旺怎么办？” 大数据推到你了就喝吧。
+BV1FgaozREne, 「蛙做拿手菜」ep1. 香辣虾 夏天过去前的劲辣美味！
+BV1QKaGzUE5z, 狗来了也要听小提琴拉完再滑走/恋人
+BV1JVexzuELw, 冷门好歌翻唱计划ep2  𝙊𝙫𝙚𝙧𝙣𝙤𝙬 - 𝘽𝙞𝙖𝙡𝙮𝙨𝙩𝙤𝙘𝙠𝙨 * 池塘小调/𝙊𝙫𝙚𝙧𝙣𝙤𝙬
+BV1PPbBzKE6p,, 愿你喜爱的一切永远不枯不朽./ Birthday\\Birthday
+BV1j1bEziEHM, “这个夏天的故事不会结束。” 夏令时记录 -piano.ver-/サマータイムレコード/夏日记录/夏令时记录
+BV1ath8zeERh, 🐸✨天真烂漫机能 🧡无论何时 I love you！/おちゃめ機能/天真烂漫机能
+BV1xf8CzoE4S, 虚拟青蛙带练！13分钟膝盖友好HIIT🔥🐸💦
+BV1Gr8EzAET7, 旅行青蛙·云南篇 ～15分钟和我轻松返乡度假！
+BV19vKizdEm9, “点燃心之「炎」 奔赴遥远的未来 ”/炎
+BV1ZWTKz1EWZ, 旅行青蛙·苏州&上海迪士尼篇！
+BV1RBEDzPEfy, 我们三个都超喜欢你！愛♡スクリ～ム！超绝可爱翻唱/愛♡スクリ～ム！
+BV1Tm5QzVEJG, 【全PV描改翻唱】モニタリング 视奸 👀“我会永远看着你…”/モニタリング/视奸
+BV1LqZhYwEtw, 😡直播间有没有麦当劳？
+BV1gsR3YZEt2, 【TES48】放手一搏/放手一搏
+BV1qoAYe9EyM, 《魔法使之夜》【旁白朗读附】（已完结）
+BV1sbNDe9Epx,, 组一辈子面包战队！✨「クリティカルヒット/会心一击」翻唱【原创PV】\\クリティカルヒット\\会心一击
+BV1f4f5YoEqg, 阿蛙你头顶怎么尖尖的？
+BV12qcXeHEtG, 旅行青蛙·泰国篇～超悠闲的妮蛙花度假！睡前可看
+BV14ScLeUE4P, 《花之塔》“唱给我听吧 关于这段故事的后续”/花の塔/花之塔
+BV1EQCEYAEgX, 被重力束缚住灵魂的人啊… 《水の星へ爱をこめて》/水の星へ爱をこめて/水星爱
+BV1TEqDYWEdJ, “ 绝对不会再让你孤身一人啦。”快25年了唱下Oz./Oz.
+BV1be6wYfEBn, ❤ 𝑪𝒂𝒏 𝒀𝒐𝒖 𝑲𝒊𝒔𝒔 𝑴𝒆 𝑴𝒐𝒓𝒆 ？♡ 诺莺Nox & 蛙吹Keroro/Kiss Me More
+BV1nJz3YTE1C, “数着一圈圈年轮，我认真将心事都封存。”/年轮
+BV1ZAS9Y5EDm,, 直到满足为止留在这里吧./ ソラゴト\\ソラゴト
+BV1n7ykYBEqQ, “你当时玩的那个叫什么？传颂之物？”/恋夢/恋梦
+BV1y4x9eLENT, 各唱各的「夏霞」之面包战队三回战/夏霞
+BV1E6pqeDEM8, Avid 翻唱“连去往何方也不知晓的，那日的群青。”/Avid
+BV19Upqe5ECt, “屋内的湿气像储存爱你的记忆”/雨爱
+BV1By411i7Vw, “那我们现在是什么关系？”/Pocket Locket
+BV17b421J7Fr, 蛙子看番之 高达0080 口袋里的战争
+BV1Py411i7ri, ☃ I love you forever where we'll have some fun./Snowman
+BV1kH4y1F74b, “你给我的爱也许不完美，但却最美。”/不完美小孩
+BV1NS411w7Lr, 四周年纪念回~Kero Beam新衣发布回放
+BV1mw4m1a7b4, “路过人间，爱都有期限。”/路过人间
+BV1Ym421V7QS, 旅行青蛙·广州篇～20分钟Vlog超下饭！
+BV1sD42137xE, 带你三分钟速通BanG Dream五周年发布会
+BV1im421M7D7,, 如果能成为你的女友…/ 君の彼女【菫時 × 蛙吹Keroro】\\君の彼女\\如果能成为你的女友
+BV1LZ42147Hf, “ 爱让悬崖变平地 生出森林 ”/你是我的风景
+BV14M4m1Z7YE, 【冰火歌会】除了春天爱情和樱花【织月黛黛X蛙吹Keroro】/봄 사랑 벚꽃 말고/除了春天、爱情和樱花
+BV1ht421A7sn, “1/365的无常中，你所诞生的日子” HB to 杠杠  【codeV x keroro】/君が生まれた日/你诞生的那一天
+BV1kt421w7LP, 【击鼓传画6】搞笑高光时刻
+BV1Lq421A7wd, ~春樱烂漫时~新衣发布回放
+BV1mr421t7mR, 蛙子看番之 高达00 【两季全】
+BV1zj421U7VL, “白鸟不要回头望，你要替我飞去那地方”《白鸟过河滩》/白鸟过河滩
+BV1zx4y1y7Up, 【蛙吹赛评】TES vs WBG  督战不力，给369道歉！
+BV19A4m1G7WU, Chipi Chapa但是滔搏加油【TES48回归曲】/Chipi Chipi Chapa Chapa
+BV1ee411n7At, 面包战队再度挑战各唱各的「フラジール」/フラジール
+BV1we411m7i6, 旅行青蛙·香港篇～40分钟超长vlog！
+BV195411B75v, 扣1上舰助力我拿下奥〇卡最佳导演
+BV1ge41167Qe, 刀P2023翻唱 ⚡️ Dilemma⚡️ Dilemma⚡️ Dilemma⚡️/Dilemma
+BV1uc411y7yU, “无心过问你的心里我的吻…”《泪桥》/泪桥
+BV1Up4y1f71S, “用那副熟悉的脸庞露出笑容吧”《不死不幸》ED翻唱/know me.../know me
+BV1EH4y127fS, 非本人投稿^^   肃圣!!萝莉神的安魂曲☆/粛聖!! ロリ神レクイエム☆/萝莉神
+BV1Nz4y1A7rf, 面包战队出道曲之毫无默契各唱各的「少女レイ」/少女レイ
+BV14c411X7gq, 贵阳旅游vlog！小心吗喽还有……
+BV1tG411X7iw, 在黑暗中撕破一切向前迈进⊹ひつじがいっぴき⊹/ひつじがいっぴき
+BV1k841117Hb, “不管怎样你非常完美。” IVE回归速翻《Either Way》/Either Way
+BV1M94y1t7iu, 绝无仅有的被蟑螂飞脸经历……
+BV12h4y127Jm, “不愿放手让命运去蹉跎”《爱人呢》cover/爱人呢
+BV1wr4y1o7XM, 【蔚蓝档案抽卡】本视频全部收益用于启动BA
+BV1yu4y1972M, XG第八人！Shooting Star 少女酷帅翻唱 ⚡/SHOOTING STAR
+BV13V4y1i732, 梦幻联动❗水星×丸之内虐待狂Remix翻唱, 水星, 丸之内虐待狂/丸ノ内サディスティック
+BV1ZX4y1j7CT, “我不想要所有不属于我的归宿。”刚学会就试唱了《在夜里跳舞》/在夜里跳舞
+BV1S14y197HR, 地球爆炸我拍照，耶比~！/ちきゅう大爆発/地球大爆炸
+BV1Tg4y1w7nm, 我们这么可爱真是抱歉……！【普罗维登六人】/可愛くてごめん
+BV1Sh411K7pf, 【花♥蛙】fly me to the star . 甜蜜翻唱/fly me to the star
+BV1Vm4y187uZ, 【ふわふわ时间】与你共渡超甜轻飘飘时光~/ふわふわ時間
+BV1Ph4y187dB, 横跨十年的letter song~！想对以前的自己说……/letter song
+BV1cL411h7Nh, 𝑳𝒂 𝑳𝒂 𝑳𝒂𝒏𝒅翻唱✦“在虚幻的真实世界中起舞”/la la land
+BV1WL41187GH, 【虚拟主播10人合唱】Blessing·感谢聚集于此的奇迹⚓/Blessing
+BV1114y1Z78t, 背着观众偷偷玩游戏，就像偷情一样刺激
+BV1J84y1u7R6, 一起坠入这肮脏的海中吧。/ダンス・ダンス・ダダ
+BV1Bh4113773, 全员性转！心动不已的真爱1000%LOVE！【普罗维登7人】/マジLOVE1000％/真爱1000%
+BV1DL411X7Eg, 为tes设计队服时审美出走会发生什么？
+BV1xs4y1S7hu, Sweet time❀请将你的爱意献给我~Magicros【清新治愈少女音合唱】/スウィートタイム/sweet time
+BV11D4y1T7wn, “糖、香料还有美好的味道，不小心再加了一点魔法！”【Live2D/MEME动画】
+BV1i84y1N7Je, ✨ 若能化作星座 · 生日时开心地唱了！/星座になれたら
+BV1zY411k7Ai, A到腿软！酷姐与甜妹的勾魂恰恰！| 快给我炙热的吻，瞄准你柔软的唇 💋/午夜恰恰
+BV1JT411S7AH, 这一分钟是主播对结婚的全部理解
+BV1qM411P7FS, 【情人节音声短片】迟到了两年的约会。
+BV1fy4y1D7EG, 我也没想单曲循环啊，可是她对我说『我愛你』诶🥺/我愛你-上海蟹-/上海蟹
+BV1CG4y1X7aX, “这城市的小巷 雨下一整晚”/雨下一整晚
+BV1vP411u7bA, 甜美热唱昭和金曲 🍂《秋绪》/秋绪/秋緒
+BV1he4y1s7MS, ⚡“一起坠入这场赌局吧。”CH4NGE · cover/CH4NGE
+BV1ut4y1K7j7, ⚠️前方超燃！虚拟主播高能翻唱《Nxde》“我即艺术”/Nxde
+BV1Rv4y1S7Ak, “ 磕 叩 请 打 赏~ ”好难唱硬着头皮唱《时候》/时候
+BV1V14y1L7b2, 哄睡语音🌙 晚安哦。
+BV14D4y1r7q7, 《我怀念的》 纯听歌+彩蛋版/我怀念的
+BV18G4y1n7M9, ❤“我真的爱你，句句不轻易。”/唯一
+BV1Ee4y1J7Yv, “我怀念的是一起做梦”/我怀念的
+BV1hR4y1R7Rz, 🌹*𝐴𝑙𝑙 𝑜𝑓 𝑡ℎ𝑒𝑠𝑒 𝑐𝑙𝑜𝑢𝑑𝑠 𝑐𝑟𝑦𝑖𝑛𝑔 𝑢𝑠 𝑏𝑎𝑐𝑘 𝑡𝑜 𝑙𝑖𝑓𝑒/Six Feet Under
+BV1Ym4y1A78T, “穿梭时间的画面的钟，回到当初____的时空”/反方向的钟
+BV1p44y1f7AZ, 【TES世界赛应援】滔搏战队动态壁纸
+BV1Fd4y1i7eu, 【TES世界赛应援】Machine gun ⚠ 此志无双 所向无前⚠/MACHINE GUN
+BV1CW4y1e7ex, 三秒惊呼般配！厚嗓酷姐VS清冷甜妹狠狠爱了！ |《吹梦到西洲》/吹梦到西洲
+BV1rY4y1N79t, 应援S12！五位虚拟美少女翻唱《无畏之路》！/无畏之路
+BV1rG411u736, 急↑得↓长←痘↑痘↓‼️灵魂还原翻唱《Mr.Love》 谁是你心中的Mr.Love呢？/Mr.Love
+BV1CG4y1a7zU, 一秒梦回童年！守护甜心OP 「心灵之蛋」超可爱翻唱【Magicros】/こころのたまご/心灵之蛋
+BV1KP411j7Gg, “五月的天，刚诞生的夏天”夏日歌会切片存档/五月天
+BV1dT411L74s, 怀旧时间到❗你不听会后悔的氛围感爆炸《病名为爱》！/病名为爱
+BV1Qd4y1K7JT, 《崩坏三》Regression 翻唱“过往太漫长，记忆太短暂”/Regression
+BV1oB4y1k7bB, “不会魔法的我仍想守护着你。”《魔法の絨毯》翻唱/魔法の絨毯
+BV1wG411H7VU, 狂气系偶像？毕业系偶像！
+BV12r4y177D2, 《 嘴 脸 》
+BV1T34y1p71v, 『 爱的话语 』无数次歌颂爱意的你 让我们再次相遇吧／蛙吹Keroro二周年/爱言叶Ⅲ/愛言葉Ⅲ
+BV1CW4y1673o, 主播主播，为什么直播有延迟啊？直播？抄作业！
+BV14W4y167gN, 主播：老公你快说句话呀！
+BV1f94y1273j, 【少女组合绝美翻唱】不可思議のカルテ/青春猪头少年不会梦到兔女郎学姐ED【Magicros】/不可思議のカルテ/不可思议的病历
+BV1fA4y1R7ed, 惊艳和声！两个女生唱的《沈园外》也太好听啦！/沈园外
+BV17Z4y147v3, One Last Kiss 空灵清澈女声带你2022年再逛卢浮宫【蛙吹Keroro】/One Last Kiss
+BV1rU4y127Et, 【Live2D模型展示】💚 好 可 爱 蛙 💚
+BV1QY4y1z7rr, 请问两位是来谈恋爱的吗？【赫拉Kris】【蛙吹keroro】
+BV1mB4y117Zn, ⭐Magicros出道投稿⭐ Sing&Smile!! ~魔法与命运的相遇~/Sing & Smile!!
+BV17i4y1m7rr, 𝑯𝑰𝑷 翻唱 💥 𝕁𝕒𝕡𝕒𝕟𝕖𝕤𝕖 𝕧𝕖𝕣./HIP
+BV16S4y1a7hZ, TES战队曲-《向北望》/向北望
+BV1AB4y1S7iY, 随便录个小视频的《凄美地》/凄美地
+BV1bS4y1Y7p7, 随便录个小视频的《燃える海》/燃える海
+BV1VT4y1e73n, 随便录个小视频的 《秒針を噛み》/秒針を噛み
+BV1P5411S7Q5, 随便录个小视频的 《春を告げる》/春を告げる
+BV1Ar4y1p7iE, “我们的回忆如干花一般褪去颜色” 《ドライフラワー》翻唱/ドライフラワー
+BV1uU4y1o7gC, “和我一起跳舞吗”《踊》翻唱/踊
+BV1d3411W7rN, 伤心的青蛙 翻唱《伤心的人别爱滔搏》/伤心的人别听慢歌
+BV1kq4y147As, TES48系列——《滔 国 恋》翻唱来啦！/三国恋
+BV1DY411G7Vb, 【蛙吹keroro】生日翻唱 ⭐ 雛鳥 ⭐/雛鳥
+BV1Xm4y1R7x5, TES北伐应援 —— 高燃剪辑《Enemy》翻唱 “搏至无憾，为自己活。”/Enemy
+BV1Ub4y147Ss, 强势翻唱·五人合唱𝐁𝐫𝐮𝐧𝐨！挑战全站最好听！【魔法满屋】/𝐁𝐫𝐮𝐧𝐨
+BV1XU4y1f7kd, TES48出道单曲 《Gee》翻唱 “寄！摆！”/Gee/寄
+BV1DZ4y1R7nZ, 只是在打喷嚏的蛙 【喷嚏一分钟合集】
+BV1eY41157vA, 《 穷 开 摆 》翻唱 “明年寄了，那就开摆。”/穷开心
+BV1L34y1y7gq, 爷青回！四个人各唱各的挑战完成未闻花名ED！/secret base～君がくれたもの～/Secret Base ～你给我的所有～
+BV16Y411t7sY, 用《吉祥话》给大家拜年啦 【蛙 x 澪】/吉祥话
+BV1bq4y1C7Jq, 新年牛蛙贺曲🎊呐呐呐。/ねぇねぇねぇ。
+BV13F411q7RJ, 【池中小调#001】 かつて... 【EGO-WRAPPIN'】/かつて.../かつて
+BV15L4y1n7NP, 虚拟主播诈骗老板数万元…遭全网通缉
+BV1ri4y1d7wm, 你 比 群 青 更 美 丽, 君は薔薇より美しい, 群青
+BV1hQ4y1e7jA, ı||ııı||ı|ıı||ı| 9”
+BV1cu411Z7uV, 有 效 夹 子 音  (·ω<)☆
+BV1gq4y1V7qW, 【keda & keroro】Midnight_Call/Midnight Call
+BV1aq4y197mo, 嘿嘿 只狼原来是这样的游戏吗 嘿嘿 (^q^)
+BV1iR4y1p7zD, 【自我介绍2.0】天下竟有不会游泳的青蛙？！
+BV1p64y1h78H, 我 进 早 怎 么 啦 ! ヽ(ˋДˊ)ノ/我尿床怎么了
+BV1Rb4y117te, 关于直播时被打雷吓哭赶紧唱了首晴天这回事/晴天
+BV1eb4y1U7Yf, 猫 猫 小 游 戏，血 压 升 降 机
+BV1nP4y1x7LD, 青蛙进早事故急得亲妈差点破门而入
+BV16b4y1k7Uy, 给呱呱民的一封信 “我读不下去了，要不你们自己读一下吧qoq”
+BV1dK4y1u7mF, ○ ● ◐ ☾ 「 在你面前  融化成水 」☽ ◑ ● ○/君がいて水になる/有你在即可化成水
+BV1Tg411G7Ce, “赫拉giegie，林莉奈看到你戴呱呱民牌子……”
+BV1GK4y1V7jZ, 绷不住了！纯情猫耳JK在520当天居然被……
+BV1MK4y1G73G, ~ 𝓢𝓪𝔂 𝓼𝓸 ~ 蒸 汽 波/Say So
+BV1ef4y1Y7pK,, ✼　 ҉   再会   ҉ 　✼ / feat.希啊蛙噻（神咲乃希&蛙吹Keroro）\\再会
+BV1i64y1C795, 2021年还有人唱阳炎唱哭了？/アヤノの幸福理論/文乃的幸福理论
+BV1Kh411D7rr, 【完整录播】白色情人节~ 和蛙蛙的约会 ~
+BV1SK4y1U7kL, vup和歌力比自己强的亲妈合唱是否搞错了什么之《雪落下的声音》/雪落下的声音
+BV1Kv411v7QW, 【蛙吹keroro】Nano （piano version）　*for 爱妮斯*/Nano
+BV1Pz4y1D7wC, 蛙大校：我其实还好
+BV13v411e757, 【直播虚拟酱12】冰糖趣味解释HOP  雫るる读棉花糖回爆笑来袭
+BV1NN411o78K, ♥ 帮 主 夫 人 ♥/帮主夫人
+BV1GK4y157K8, 【蛙片】moon river/ Moon River
+BV1Dp4y1B7Ud, 【蛙吹keroro】Main Actor　*for 企鹅*/main actor
+BV1Lp4y1B7ri, 【蛙】500粉纪念台词回
+BV1154y167Cx, 【蛙歌】 KTV热唱回完整录播
+BV1PT4y1M723, 【蛙吹keroro】2020年12月录播合集
+BV1Tv411b7Nf, 【蛙吹keroro】2020年11月录播合集
+BV11A411J7G7, 【蛙吹keroro】Departures~あなたにおくるアイの歌~　*for clancerye*/Departures~あなたにおくるアイの歌~
+BV1Ci4y177Qv, 唱给单推人 VTB字字泣血/你怎么说
+BV1Kk4y127qZ, 【蛙吹keroro】恋しくて　*for安眠*/恋しくて
+BV1fp4y1v7LC, 【蛙吹keroro】八月录播合集
+BV1xt4y1D7BV, 「 声音真可爱呢， 是本音吗  ？」^ ^
+BV1uT4y1j7sV, 阿 伟 乱 葬 岗 之 ♥ 好 想 你 ♥/好想你
+BV1aK411J75a, 『 睡前的读书哄睡 』✦ 小王子 ✦ 持续更新中
+BV19K4y1e7CH, 「睡前的温柔歌声」Asui * 晚安哄睡电台 * 持续更新中
+BV1vK411J7HZ, 【蛙吹keroro】♥ 清爽的7月歌回录播 ♥
+BV1f5411Y7Nq, 【自我介绍】电子青蛙 蛙吹keroro来啦，请多关照！有OP的自我介绍视频——！
+BV1yf4y117HX, 【初配信】【蛙吹keroro】初配信即事故回？！电子青蛙的大危机
+BV18t4y197cC, 【蛙吹keroro】【初投稿】丸ノ内サディスティック/丸ノ内サディスティック/丸之内虐待狂
