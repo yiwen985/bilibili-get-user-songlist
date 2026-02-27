@@ -15,6 +15,10 @@ const path = require('path');
  * }
  */
 module.exports.macroCommands = {
+    跳转BV: {
+        no: 1,
+        func: openBV
+    },
     时间调整: {
         no: 1,
         func: adjustTime
@@ -149,6 +153,33 @@ function addValueToMap(map, key, newValue) {
         // 如果键不存在，创建一个新列表并添加新值
         map.set(key, [newValue]);
     }
+}
+
+async function openBV() {
+    const editor = vscode.window.activeTextEditor;
+    if (!editor) {
+        return 'Editor is not opening.';
+    }
+
+    let selectedText;
+    const selection = editor.selection;
+
+    if (selection.isEmpty) {
+        return 'No text selected. Please select a BV number.';
+    } else {
+        selectedText = editor.document.getText(selection).trim();
+    }
+
+    // Check if the selected text is a valid BV number
+    const bvRegex = /^BV[0-9A-Za-z]{10}$/;
+    if (!bvRegex.test(selectedText)) {
+        return 'Selected text is not a valid BV number format.';
+    }
+
+    // Open browser to Bilibili video page
+    const videoUrl = `https://www.bilibili.com/video/${selectedText}`;
+    await vscode.env.openExternal(vscode.Uri.parse(videoUrl));
+    return `Opened Bilibili video: ${selectedText}`;
 }
 
 async function adjustTime() {
