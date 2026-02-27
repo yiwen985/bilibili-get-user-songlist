@@ -105,7 +105,7 @@ async function createMapFromSonglistFile(file_path) {
             // 3. 动态识别分隔符模式
             const isDoubleMode = trimmedLine.includes(',,');
             const songDelimiter = isDoubleMode ? ',,' : ',';
-            const sameNameDelimiter = isDoubleMode ? '\\' : '/';
+            const sameNameDelimiter = isDoubleMode ? '\\\\' : '/';
 
             // 4. 解析行数据
             const parts = trimmedLine.split(songDelimiter)

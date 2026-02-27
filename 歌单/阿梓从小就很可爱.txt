@@ -1,99 +1,271 @@
-BV1hpZJBHEoe, my love
-BV1zQq5BeEJm, Departures
-BV1bA2WBaEH4, 这世界也是我的家
-BV1VVSCBTEmE, 归期
-BV1jTygBeE5a, 鸳鸯戏
-BV1hRkzBTE2q, Let Me Be With You
-BV1QS4LzEE7g, 我的悲伤是水做的
-BV1nq3Fz7EEK, 着魔
-BV1imMPzLEf1, 无情画
-BV1AVTMzwE7H, 火烧的寂寞
-BV1zhFietEqJ, 春意红包
-BV12qfQY1ELj, 恭喜发财
-BV1y9rUYxEg7, 火力全开
-BV1SmrTYEEaW, 爱错
-BV1NEikYtE98, 给你呀/for ya
-BV1MPzsYREYq, 凑热闹
-BV1FSSUYBEq2, 七月七日晴
-BV1N8yeY4Em6, 免我蹉跎苦
-BV1fymnYJENf, 疯子
-BV1K612YwEut, 苹果香
-BV1K2421o751, 我敢
-BV1yw4m1r7Xg, 太聪明
-BV1Ef421i7aY, lalala/La La La
-BV18T42167nT, 童话镇
-BV1q4421U7G9, 爱未枯竭前/せっかく濡れた愛が渇く前に
-BV1FJ4m1M7HN, 爱未枯竭前/せっかく濡れた愛が渇く前に
-BV11x4y1t7TW, 相思
-BV1Xi421a7qT, 来自天堂的魔鬼
-BV12Z421u7jA, 人是_
-BV1Km421p7ac, 安全地带
-BV1dZ421q7tb, 5：20AM/5:20AM
-BV1hz421Q7uU, 三月雨
-BV1cx42127v9, 一梦千宵
-BV1vJ4m147w5, 越来越好
-BV11t421h72f, 阿肝(AGAIN）/阿肝
-BV1Z6421g7jp, 不眠之夜！启动！
-BV1JC411z7ut, 是你
-BV1nZ4y1E7So, 禁区
-BV1Xa4y1k7V6, 素颜
-BV1RN4y1v7dn, 盛夏光年
-BV16a4y1272i, 瞬
-BV1FT4y1p7j2, 水手
-BV1V5411B7GM, 卜卦
-BV1WW4y1N7rD, 一笑江湖
-BV1R94y1g7tc, 谭某某
-BV1xC4y1A7QT, 暧
-BV1hC4y1L7hE, 秋意浓
-BV1Z44y1c7t4, 凄美地
-BV1q84y1Z7CT, 蓝色monday
-BV1Cp4y1V7zE, 致：黯淡星/致黯淡星
-BV13z4y1i7FD, 光亮
-BV1UP411Q72m, I Miss You/艾米修
-BV1jL411z7Lw, 你的世界
-BV1aD4y177wb, 天上掉下个林妹妹
-BV1nv4y127su, 没离开过
-BV1qe4y1p7WH, 全是爱
-BV1GD4y127nG, 爱我中华
-BV1rT411T7My, Connecting
-BV1Y8411b7J5, CHANGE！
-BV18v4y1M7EQ, 寓言/引路的风筝
-BV1st4y1p7xP, 记念
-BV1934y1e7k5, letting go
-BV1sF411W71c, 没离开过
-BV1944y1P7pP, 爱丫爱丫
-BV1ZL4y1n7TU, 溯
-BV1LP4y1V7Lp, 谁 是 喝 奶 王/谁是喝奶王
+# 2026年02月28日更新
+BV1f1ZbB4EHf, 梓歌瞳舞！爽听爽看《鸳鸯戏》！/鸳鸯戏
+BV18nZLBTEzm, 月亮船战队【2026拜年纪单品】
+BV1hpZJBHEoe, 【阿梓】my love/my love
+BV1AAcMz7EQA, 归期【冰火盛典】/归期
+BV1ECFtzoEp9, 【泽音&阿梓】绝美的尾翼 阻止我爱你就不再瑰丽『人鱼』【泽音2026一周年3D回】/人鱼
+BV1UwF6zVEuv, 小海梓 翻唱翻跳《把心跳变成节奏 》【天使妄想簿新春特辑】/把心跳变成节奏
+BV15sqzBFE8K, 【阿梓】第57次取消发送/第57次取消发送
+BV1zQq5BeEJm, 【阿梓】Departures~あなたにおくるあいの歌~/Departures~あなたにおくるあいの歌~
+BV1Lim3B5EoG, 【异界游龙队】战前总动员，备战豪吃杯！
+BV1bA2WBaEH4, 【阿梓】这世界也是我的家/这世界也是我的家
+BV1VVSCBTEmE, 【阿梓】归期/归期
+BV1mMSyBbEwK, 耗儿药
+BV1LVUzBoEkT, 库里库里库里库里库里/库里
+BV17YUQBaEs7, 【阿梓】到时说爱我😥/到时说爱我
+BV14KUmBeE6a, 100万粉丝MVP结算舞蹈
+BV16EyuBTELH, 讨口子大法
+BV1jTygBeE5a, 【阿梓】鸳鸯戏  我太想百万粉了😭/鸳鸯戏
+BV1dSCPB2E8d, 你们怎么知道我出极品s了
+BV1hRkzBTE2q, 【阿梓】Let Me Be With You/Let Me Be With You
+BV1Vd2wB2E1h, 【阿梓】崩坏：星穹铁道《昔涟》/昔涟
+BV1J6WyzTEqq, 梓可小卖部还是导弹小店？
+BV1VV4gzBEdz, ⚡寂莫的楞 伤心的歌⚡/寂寞的人伤心的歌
+BV1pg4EzkEYx, 古道热肠梓神，行侠仗义助人
+BV1QS4LzEE7g, 我的悲伤是水做的💦 阿梓翻唱/我的悲伤是水做的
+BV1uUnQzPEH7, 全网寻找此好心人！鼠鼠最感动的一集😭
+BV1Kjp3zDERf, 【阿梓】盛世天下 已更新至媚娘篇完结
+BV1iDanzDERS, 是时候展现真正的实力了！
+BV1sAYdzeE4Z, KXG l 飞吧，我的翅膀
+BV16M8dzJEn8, 你这辈子有没有为别人拼过命。
+BV1nq3Fz7EEK, 👿我只有战斗！【着魔】阿梓直播翻唱/着魔
+BV1h8KuzLEyF, 【阿梓】凸变英雄X的幸运青角色歌《Take Off》/Take Off
+BV1imMPzLEf1, 阿梓直播翻唱 无情画“愿为你放下万千的荣华  和你携手走天涯”/无情画
+BV1vUMVziE51, 王不见王 避我锋芒
+BV1AVTMzwE7H, 🔥🔥火烧的寂寞🔥🔥阿梓直播翻唱！/火烧的寂寞
+BV1FC7EzmE79, 我的🎈六一🎈未来式，我做主！/我的未来式
+BV1UwJ8zwEeD, 珠玉 直播生唱 阿梓/珠玉
+BV1VbGtznEdc, 🍊自娱自乐🍊阿梓/自娱自乐
+BV1JSoNYPEBV, 无畏契约怎么上分！！！
+BV1CqfPYgE89, 发传单的小女孩
+BV1qPQeYfEWe, 💔baby 我们的胜率好像跳楼机😥/跳楼机
+BV1P1AWe3ExB, 果 赖 勇 闯 燕 云
+BV1WtKpeyEat, 『毛茸茸软乎乎』3D原创曲【虚拟UP新春会单品】/毛茸茸软乎乎
+BV1CqKLesEYF, 【补档】💥💥果赖暴力炸！💥💥
+BV1u3NZeJEdw, 画 中 仙
+BV1NwNme1E7p, 星小海梓！恋爱告急，但是超甜四人组！/恋爱告急
+BV1zhFietEqJ, 【春意红包2025】一起给大家拜年啦! 初五财神到，拿来大红包~/春意红包
+BV1VGfpYgErH, 俺、要去二次元！【2025拜年纪单品】
+BV12qfQY1ELj, 大制作！梓宝祝大家【恭喜发财】！/恭喜发财
+BV1y9rUYxEg7, 来一段【火力全开】阿梓/火力全开
+BV1SmrTYEEaW, 【爱错】阿梓/爱错
+BV1twCPYgECr, 圣诞节🎄快乐！！
+BV1zqq8YSEtF, 大 澡 堂
+BV1tRB3YJEZK, 【阿梓】我的第一个vlog！！！请欣赏😇😇
+BV1t5qNYbEkZ, 顶 级 操 作
+BV1NEikYtE98, 阿梓『喜欢你是我的秘密深度就像在海底十万米』——for ya/for ya/给你呀
+BV1MPzsYREYq, 【凑热闹】*温柔可爱版* 主包超绝运镜！/凑热闹
+BV1FSSUYBEq2, 【七月七日晴】 阿梓/七月七日晴
+BV1QNSfYEEAF, 骂我的人看到我这么可爱还舍得骂我吗*^o^*
+BV1N8yeY4Em6, 😡不能专挑我一个人欺负！！😡😡😡/免我蹉跎苦
+BV1sQycYAEQ8, 我是噪音制造器吗！
+BV1RT2dYBEgK, 我来说两句
+BV1fymnYJENf, 【疯子】梓神哭了 梓神笑了 梓神疯了！/疯子
+BV1K612YwEut, 六星街里还传来！巴扬琴吗！/苹果香
+BV12wxpecEc5, 提拉米苏！
+BV1F142147HN, 【阿梓从小就很可爱】最新视频已上线，快来围观！
+BV1K2421o751, 阿梓 【我敢】 edg加油！cn瓦加油！/我敢
+BV16E4m1R7Bq, 【阿梓手书】夏天的风/夏天的风
+BV18b421J74s, 为什么说果赖是T0级神黄！
+BV1yw4m1r7Xg, 阿梓 太聪明/太聪明
+BV1Ef421i7aY, 阿梓 lalala曼波/La La La
+BV18T42167nT, 童话镇 阿梓直播翻唱/童话镇
+BV1q4421U7G9, 「爱未枯竭前」/阿梓从小就很可爱 feat. 式浦躁吾/爱未枯竭前/せっかく濡れた愛が渇く前に
+BV1FJ4m1M7HN, 「せっかく濡れた愛が渇く前に」/阿梓从小就很可爱 feat. 式浦躁吾/爱未枯竭前/せっかく濡れた愛が渇く前に
+BV1zb421n7gH, MECRE×VirtuaReal 第三弹阵容公开！/阿梓从小就很可爱 feat. 式浦躁吾
+BV1hz421q7xP, 阿梓×尔东和小明倾情演出《暁の車》带你重温高达经典旋律【BML2024单品】/暁の車/晓之车
+BV1Fw4m1Y7Jz, 15单648！狂暴保底王梓 敬请见证！觉得热的来主播心里避暑..
+BV11x4y1t7TW, 最不屑一顾是【相思】 阿梓/相思
+BV1Xi421a7qT, 😇😇来自天堂的魔鬼 凳梓齐版😈😈/来自天堂的魔鬼
+BV1cS421o714, 阿梓从小就很可爱来啦！【UP！大侦探】嘉宾官宣！
+BV12Z421u7jA, 阿梓《人是_》铁饭是钢！！/人是_/人是
+BV1dT421i7PJ, 《鸣潮》公测EP曲｜Waking of a World 翻唱【小海梓】/Waking of a World
+BV1qf421m71q, V R 造 谣 王
+BV1Km421p7ac, 让我如何降落《安全地带》| 510原创曲/安全地带
+BV1hD421K7KN, 「是妈妈是女儿」阿梓&小可【冰火歌会】/是妈妈是女儿
+BV1np421Q7sj, 3岁生日快乐！《坎友地久天长》，我们的冒险永远不走散！
+BV1dZ421q7tb, 俺是河南嘞！河南洛阳嘞【5：20AM】阿梓/5：20AM/5:20AM
+BV1wC411j75p, 是蛙梓！！！
+BV1fJ4m1j7qH, 果赖震撼你的五杀残局！
+BV1K2421K71N, 梓神-谁「在你眼中我是谁 你想我代替谁」/谁
+BV1hz421Q7uU, 三月就得听三月雨！！/三月雨
+BV1ky421q731, 无畏契约看果赖，女生漂亮男生帅！
+BV1cx42127v9, 心中的愿，不会黯淡【一梦千宵】/一梦千宵
+BV1MF4m1E79g, 地主交给他们，我们负责“欢乐“跟“逗”！
+BV1vJ4m147w5, 阿梓祝大家龙年大吉 《越来越好》！！/越来越好
+BV1PC41147Qu, 春晚大合唱抢先听！V圈最有年味的一集！/相亲相爱
+BV11t421h72f, 【阿肝】这次我是主角，不是NPC！ |《命运拳台》阿肝角色曲/阿肝
+BV1it421W71X, 与菜菜子战鹰一起看《命运拳台》吐槽拉满火力全开，谁来都得汗流浃背！
+BV1Z6421g7jp, 不眠之夜！启动！/不眠之夜
+BV1JC411z7ut, 你是？《是你》？/是你
+BV1BU421Z7Qo, 果赖震撼你的五杀！帅不帅！
+BV1nZ4y1E7So, 【禁区】阿梓直播翻唱/禁区
+BV1Xa4y1k7V6, 【素颜】梓/素颜
+BV1zV411X7Xh, 和“主演”一起看命运拳台，戏里戏外难分辨！
+BV1MN4y1p7rj, 我花30开会员剪的无畏契约集锦 大家看看怎么样
+BV1RN4y1v7dn, 我不转弯！！！！！！！！/盛夏光年
+BV16a4y1272i, 梓宝不经意打动你的《瞬》间/瞬
+BV1FT4y1p7j2, 小学生版水手之东山再起坚持不懈重整旗鼓卷土重来无畏契约版/水手
+BV1TG411B7NA, 阿梓打瓦开麦再次被当小孩：卧槽蝰蛇是小孩哥？你是不是偷偷玩你爸的电脑？
+BV1V5411B7GM, 卜呱！卜呱！卜呱！卜呱！卜呱！卜呱！！！/卜卦
+BV1WW4y1N7rD, 梓神走过多少的岁月！！！！！！！！！！！！！！！！！/一笑江湖
+BV1R94y1g7tc, 我勒个豆！【谭某某】这么帅😲/谭某某
+BV1EQ4y1J79J, 阿梓直播看自己的配音视频，笑嘻了！【命运拳台Reaction】
+BV1kN4y187eo, 阿梓打瓦开麦被当小学生：小孩你多大了？你周一不上学吗？
+BV1hj411J7KZ, 玩这个都要尔虞我诈？？
+BV1Si4y1a7wF, 听说命运拳台配音棚里哔声连连？！【命运拳台开播倒计时1天】
+BV1Su4y1K7RY, 虚拟偶像能做配音吗？边江和李豪凌的绝密通话曝光？！！【命运拳台开播倒计时2天】
+BV1EC4y1S7tP, 边江和阿梓因为命运拳台吵起来了？！！！【命运拳台开播倒计时3天】
+BV1HC4y1X7gP, 【阿梓】遇中惨遭落单，吓懵小孩绷不住哭哭，离职下播洗澡
+BV1xC4y1A7QT, 【暧】翻唱/暧
+BV1hC4y1L7hE, 秋意浓【冰火秋日游】/秋意浓
+BV1wy4y1F7BG, 【小海梓】是真的饿了…能直接出动么？
+BV1bu411A7do, 【泳装彩排花絮】我们仨就是最有默契的楞！
+BV1Hz4y1K7K6, 【4K】LOVE DIVE 没想到我们跳了吧
+BV1xF411k7T7, 【4K】泳装这么可爱真是抱歉
+BV1XN4y1R7K9, 【4K】summertime 夏日海边我们在一起/summertime/夏日时光
+BV17N411q7jY, 当心手雷！！！！果赖玩雷兹最爽的一集！
+BV1jN411q7Qy, 想去海边 3D泳装直播
+BV1Z44y1c7t4, 【凄美地】此视频所有收益用于启动无畏契约！/凄美地
+BV1q84y1Z7CT, 阿梓x艾因【蓝色monday】/蓝色monday
+BV1Cp4y1V7zE, 致黯淡星 ———冰火歌回【阿梓 乌龟酱】/致黯淡星
+BV1ru4y127St,, 天使にふれたよ!  / 相遇天使 🎸\\天使にふれたよ!\\相遇天使
+BV1fm4y1s7KV, 【梓】挨那么多揍，还不能嚣张一回？
+BV13z4y1i7FD, 【光亮】 直播间3000人听过都哭了；；/光亮
+BV1UP411Q72m, (>ω･* )ﾉ来聊天室踩踩这首《艾米修》吧！/I Miss You
+BV1jL411z7Lw, 【阿梓】小美人鱼中文版 你的世界/你的世界
+BV1fo4y1g7Nz, 如果。。。😢😢/怎样
+BV1LL411h7iY, 5月10日！Baby you♡好きになっちゃうよ
+BV12s4y1m773, 听话？那是不可能的！
+BV16L411U7vB, 全体集合！上海美琪大戏院！
+BV1Pv4y1e7HY, 【APEX S16赛季 X 阿梓】为了热爱而《狂欢》/狂欢
+BV16x4y1u7JZ, 【七海x阿梓x小可】查收你的金色传说！
+BV1Rd4y1V7cS, 【七海x阿梓x小可原创曲】星遇/星遇
+BV1YK411k7Dc, 【原创曲预告】七海x阿梓x小可给您拜年啦！
+BV1XD4y157Xt, VirtuaReal2022春季接力歌回Day2
+BV1Ke411w7a5, All I Want for Christmas Is You【七海x阿梓x小可x艾因x真绯瑠】/All I Want for Christmas Is You
+BV1aD4y177wb, 天上掉下个阿梓宝！/天上掉下个林妹妹
+BV1j44y1S7Ny, 一镜到底！【限定游戏】超晒练习室公开/限定游戏
+BV1pK411X7XQ, 虚拟主播高能放送108：带我一个
+BV1nv4y127su, 最红温版😡😢《没离开过》！😊/没离开过
+BV1qe4y1p7WH, 全✋是✋爱✋/全是爱
+BV1ZG411w7M8, 虚拟主播高能放送103：八木樱，谢谢你
+BV1iW4y1H7DZ, 【阿梓】两个恰恰好/两个恰恰好
+BV1GD4y127nG, 国庆快乐！唱个爱我中华！/爱我中华
+BV1wt4y1P78e, Virtual to LIVE【夏日合唱Super】/Virtual to LIVE
+BV1rT411T7My, 【星弥x勺x阿梓x小可x千幽x瑞娅】Connecting【夏日合唱Super】/Connecting
+BV1Rt4y1A7v6, Zero 2 Hero【夏日合唱Super】/Zero 2 Hero
+BV1je411K7zC, 【七海x阿梓x小可】孤勇者【夏日合唱Super】/孤勇者
+BV1Y8411b7J5, 【艾因x七海x罗伊x阿萨x阿梓x小可】CHANGE！【夏日合唱Super】/CHANGE！
+BV1FY4y1N78w, 我们的夏天永不落幕！
+BV1Dg411m7GD, 【青春补完计划】这还不能让你喜欢上开学？
+BV1uW4y1i7a8, 《镜花堂》小海梓倾情翻唱！/镜花堂
+BV1JD4y1z7d7, 【夏日合唱宣传片】震惊！虚拟主播被通缉事件！
+BV1nU4y167p5, 【七海x阿梓x小可】原创曲《限定游戏》心动上线（Prod.苏逸）/限定游戏
+BV1Lv4y1F7cT, 【重磅消息】小海梓原创曲《限定游戏》预告
+BV1bT411c79q, 【重大披露】小海梓全新3D衣装首次曝光！
+BV18v4y1M7EQ, 【阿梓歌】《寓言+引路的风筝》国风纯享/寓言 + 引路的风筝 (Live)/寓言 + 引路的风筝, 寓言, 引路的风筝
+BV1HZ4y1q73e, 虚拟主播高能放送83：她的绝招就是变身！
+BV1Br4y1G7Du, 虚拟主播高能放送82：给我带上戒指
+BV1st4y1p7xP, 【记念】现场版阿梓/记念
+BV1FY4y1z7g5, 太帅了我太帅了我太帅了我太帅了我太帅了我
+BV1uS4y1z7xY, 【阿梓】反方向的钟【重编曲翻唱】【原创PV】/反方向的钟
+BV1rY4y1z7jX, 该我来接龙啦
+BV1gi4y1U7JC, 【阿梓】忍者/忍者
+BV1934y1e7k5, 【letting go】现场版 阿梓/letting go
+BV19q4y1h7eU, 虚拟主播高能放送73：大哥大哥欢迎你！
+BV1EY411J7xF, 纸片人翻唱！《不可言说》【阿萨&阿梓】/不可言说
+BV1sF411W71c, 小学生版【没离开过】 阿梓/没离开过
+BV1944y1P7pP, 【爱丫爱丫】现场版 阿梓/爱丫爱丫
+BV1eS4y1372a, 【小海梓】流星舞蹈纯享版/流星
+BV1b34y1b7fU, 【小海梓原创曲】流星/流星
+BV1gq4y1i7xa, 虚拟主播高能放送69：她打我！愣是说成我打她！
+BV1da411178m, 新春小记【2022拜年纪单品】/新春小记
+BV1GP4y1N7tH, 虚拟主播高能放送65：世界上的另一个“我”
+BV1Sr4y1Y78Y, 虚拟主播高能放送64：睡边上一起被Call醒了
+BV19P4y1j7qN, 给阿梓画生日贺图！明明说好不要告诉她的~
+BV1Am4y1S7Xq, 大家好我宣布个事
+BV1tq4y1y7ei, 这时候就有观众会问了？这是啥
+BV1AD4y1c7ZV, 【小海梓】圣诞舞曲串烧，一定要看完！
+BV1na411k7iT, 【青溯/阿梓】原创曲-99%旅人【HB to 阿梓从小就很可爱】【竖屏PV】/99%旅人
+BV1y3411s7BC, 【小海梓】虚拟刘关张
+BV1ML4y1H7A1, 虚拟主播高能放送58：反正没人看 就想求个偶
+BV1ZL4y1n7TU, 阿梓 溯/溯
+BV1LP4y1V7Lp, 谁 是 喝 奶 王（翻唱rap）/谁 是 喝 奶 王/谁是喝奶王
+BV1pf4y1u7pQ, 虚拟主播心得【合唱】少女，再生产！/舞台少女心得 幕間/舞台少女心得
 BV1cu411f7LX, 啦啦啦德玛西亚
-BV1AR4y1H7Cr, 盘旋
-BV1rL411s7XL, 破茧成蝶
-BV12h411W7Sm, Oh/Oh!
+BV1AR4y1H7Cr, 【战双帕弥什】 丽芙·极昼主题曲丨《盘旋》【阿梓】/盘旋
+BV1UU4y1A7h6, 【早教视频】阿梓折磨企鹅实录
+BV1rL411s7XL, 破茧成蝶【阿梓】/破茧成蝶
+BV1hL4y187oW, 【小海梓】心动…也只是对你哦《除了春天爱情和樱花》/봄 사랑 벚꽃 말고/除了春天爱情和樱花
+BV1uv411A7op, 【海子姐合拍】一遍就会，一学就废
+BV12h411W7Sm, 【4K高清】Oh！--夏日合唱ProMax/Oh!/Oh
+BV1ef4y1H7h9, 【4K高清】星夜加冕--夏日合唱ProMax/星夜加冕
+BV1Jf4y1G7ms, 【夏日合唱ProMax】足不出户也有的完美夏天
+BV11g41157mD, 梓宝和汐宝出现了信任危机！？ 哦！反转了
+BV1Yq4y1S7PL, 【小海梓】尝试一起跳了猛男版新宝岛
+BV1Cb4y1U7J5, 虚拟主播高能放送41:请把大电池给茉里Mari
+BV1FX4y1c7PP, 20W粉千舰3D纪念回
 BV1e54y1E7xU, RingRingRing
-BV1n44y1q7uX, 灯火里的中国
-BV1WX4y1P72y, 绝世舞姬/阿楚姑娘
-BV1rv411V75z, 吉祥话
-BV1zA41157Lp, 想要你在身边
-BV1Gh411D75b, 大喜
-BV1Py4y1H7zN, 高ping战士
-BV16A411W7dv, 夜晚/밤(보고 싶은 가 밤)
-BV1By4y1i7EL, AWSL
-BV1gD4y1R7su, 快去买买买/te-yut-te
-BV1Sa4y1L7AN, ろりこんでよかった~/是萝莉控真是太好了
-BV1Si4y177kJ, 醒过来！/te-yut-te
-BV1qa4y1J7kS, 古德奈先生
-BV17K411J7DC, Real me
-BV1q54y1q73j, 呼吸决定
-BV1T541147wg, 爱即正义
-BV1R7411d74z, DINOSAUR
-BV1m7411K7VC, 大家一起喜羊羊
-BV1UJ411J79o, 下山
-BV14J41177QU, For フルーツバスケット/For Fruits Basket
-BV1KJ411C7Wn, 白金ディスコ/白金disco
-BV1nJ411m77U, 涅槃
-BV1qJ411S75E, 野狼disco
-BV1rE411h76a, 月光
-BV18J411w7D3, 孽海记
-BV1j4411m7rQ, 骑上我心爱的小摩托
-BV1Ut411a7Yy, 不完美小孩
-BV1ot411v7hu, 无限少女
-BV1ox411g7Vc, 母系社会
+BV1Hv411n7oS, 虚拟主播高能放送37: 游泳健身了解一下！
+BV1DX4y1w7qj, VirtuaReal女生五人组描绘《群青》色彩/群青
+BV1n44y1q7uX, 《灯火里的中国》/灯火里的中
+BV1Tg411u7tQ, 蜜雪冰城甜蜜蜜！（小海梓唱跳版）/蜜雪冰城主题曲 (官方版)/蜜雪冰城
+BV1WX4y1P72y, 【绝世舞姬  阿楚姑娘】冰火歌回切片, 绝世舞姬, 阿楚姑娘
+BV1Yw411f79z, 汐：阿梓宝是我和mei酱的宝宝 和阿梓宝玩多少也没事
+BV16h411a7Tc, 今天mei酱不在家
+BV1rv411V75z, 高考贴士小课堂开课啦！《吉祥话》高考化学版【填词翻唱】/吉祥话
+BV1HK4y1V7qh, 哒 哒 哒
+BV1bK4y1X79i,, 后来/未来へ【阿梓/NoiR】\\后来
+BV1bV411776w, 高考应援企划合唱曲《明天会更好》让你们的努力充满青春的骄傲 2021高考加油！/明天会更好
+BV1Z54y1V7un, Do you知道ネコpiano？【NoiR/阿梓】
+BV1Dh411v7t3, 【直播虚拟酱25】新人桃星被质疑没有朋友 阿梓查房绮楼误会“小心阿梓”
+BV1WK4y1d7Td, 【手书】梓宝来了！！！
+BV1oQ4y1Z7zr, 辅助只会心疼打野giegie~
+BV1zA41157Lp, 想要你在身边【阿梓x里奈】/想要你在身边
+BV1Gh411D75b, 大喜【阿梓翻唱】/大喜
+BV1q5411w7n1, 讲出来！异 世 相 遇！尽 享 美 味！
+BV1KV411v7eB, 虚拟主播高能放送18:同学们都来看我直播
+BV1FA411M7hc, 一起拆开2020年的时光盲盒/时光盲盒
+BV1Py4y1H7zN, 【阿梓】高ping战士/高ping战士
+BV1mr4y1P7df, 【19人除夕合唱】2021·若/2021·若/若
+BV19v4y1o7MA, 【一分钟红豆泥】鱼梓的日常①
+BV1cU4y1x7Jf, 阿梓桑诺塞尔达之旅嘚丝
+BV1r541177QB, 【阿梓】声控抽卡，目标新年限定池双满潜！无跳过加速剪辑【明日方舟】
+BV1ZT4y1N7ph, 【汐梓初次联动】塑料日语与长沙中文的lol之旅【全熟】
+BV16A411W7dv,, 【阿梓中文填词】想和扎扎人度过每一个《夜晚》(///▽///)\\밤(보고 싶은 가 밤)\\夜晚
+BV1Va4y1p73h, 虚拟艺人演出【BW2020广州 · 12.26 UP演艺舞台】, AWSL
+BV1By4y1i7EL, 【KBShinya x 阿梓】《AWSL》一首写给阿伟的原创歌/AWSL
+BV1gD4y1R7su, 【双十一主题曲】快去买！买！买！/快去买买买/te-yut-te
+BV1ay4y1B7jY, 乞丐模拟器
+BV1Ja411c7ff, 【登乐V计划】张三的奇妙冒险之击剑牛头人
+BV1Sa4y1L7AN, 是宅女真是太好了!!!/ろりこんでよかった~/是萝莉控真是太好了
+BV1Av411C7vp, 【登乐V计划】绕口令惩罚环节
+BV1zy4y1C7f8, 女生玩英雄联盟的真实想法
+BV1DD4y1R7FX, 阿梓的配音作业
+BV1cp4y1Y7vX, 【登乐V计划】Respect赵本山？虚拟主播也想成为rapstar！
+BV1Si4y177kJ, 如果世界上只有一首歌能叫醒你，那么就是它了！/醒过来！/te-yut-te
+BV16h41197tt, 不开心也拍手拍走伤痕累累！/月亮之上
+BV15Z4y1T7py, 【登乐V计划】PK赛二十强，耳机塞上就别想出去了！（8月16日 上）/醒过来！/te-yut-te
+BV1qa4y1J7kS, [阿梓] 古德奈先生（一首歌把你带回童年）/古德奈先生
+BV17K411J7DC, 阿梓—《Real me》/Real me
+BV19a4y1a7RK, 【柯基控必听】记录和萌宠甜蜜温馨的一天 Jay式前奏 超甜合唱曲【柯基日记】【管珩心】【阿梓】/柯基日记
+BV1q54y1q73j, 【登乐V计划】——阿梓《呼吸决定》/呼吸决定
+BV1Wv411B7Qh, 做了一首阴阳怪气的电音《不会吧》ft.阿梓/不会吧
+BV1pT4y137eZ, 5月10日的带制作！[呲牙][呲牙]
+BV1Mg4y167hS, 【笙歌阿梓】汉江恋【原创曲】/汉江恋
+BV1T541147wg, [阿梓翻唱] 爱即正义/爱即正义
+BV1R7411d74z, 【金坷垃】芜 湖 大 丰 收/DINOSAUR
+BV1m7411K7VC, 大家一起流口水！/大家一起喜羊羊
+BV1UJ411J79o, 我 也 下 山/下山
+BV14J41177QU, 【阿梓】水果篮子 For フルーツバスケット/For フルーツバスケット/For Fruits Basket
+BV1KJ411C7Wn, 野 狼 迪 斯 科/白金ディスコ
+BV1nJ411m77U, 《涅槃》中文填词FPX版/涅槃
+BV1qJ411S75E, 宅女disco/野狼disco
+BV1rE411h76a, 【阿梓翻唱】月光/月光
+BV18J411w7D3, 【阿梓】 孽海记/孽海记
+BV1j4411m7rQ, 【阿梓】小摩托嘟嘟嘟/骑上我心爱的小摩托
+BV1t4411H759, 【阿梓】世界第一可爱【原创曲】/世界第一可爱
+BV1Ut411a7Yy, 【阿梓 生日作】不完美小孩/不完美小孩
+BV1ot411v7hu, 【阿梓】无限少女 祝暖暖生日快乐~/无限少女
+BV1ox411g7Vc, 【阿梓】母系社会  【初投稿~】/母系社会
