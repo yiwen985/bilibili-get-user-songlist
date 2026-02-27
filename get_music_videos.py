@@ -1,5 +1,3 @@
-import json
-
 from bilibili_api import user
 from bilibili_api.user import MedialistOrder
 from bilibili_api.utils.network import Credential
