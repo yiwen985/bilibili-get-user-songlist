@@ -27,6 +27,10 @@ module.exports.macroCommands = {
         no: 1,
         func: replaceWithBV
     },
+    字符串转列表: {
+        no: 1,
+        func: str2listMacro
+    },
 };
 
 async function replaceWithBV() {
@@ -299,4 +303,49 @@ async function input(prompt = '标题', placeHolder = '参考') {
         prompt: prompt,
         placeHolder: placeHolder
     });
+}
+
+/**
+ * 将空格分隔的字符串转换为带引号的列表格式
+ * @param {string} str - 空格分隔的字符串，如 "a b c"
+ * @returns {string} 带引号的列表格式，如 "'a', 'b', 'c'"
+ */
+function str2list(str) {
+    return str.split(' ')
+        .filter(item => item.trim() !== '')
+        .map(item => `'${item.trim()}'`)
+        .join(', ');
+}
+
+async function str2listMacro() {
+    const editor = vscode.window.activeTextEditor;
+    if (!editor) {
+        return 'Editor is not opening.';
+    }
+
+    let selectedText;
+    const selection = editor.selection;
+
+    if (selection.isEmpty) {
+        // If no text selected, return
+        return 'No text selected.';
+    } else {
+        selectedText = editor.document.getText(selection).trim();
+    }
+
+    const result = str2list(selectedText);
+
+    if (selection.isEmpty) {
+        // If no selection, insert at cursor position
+        editor.edit(editBuilder => {
+            editBuilder.insert(editor.selection.active, result);
+        });
+    } else {
+        // If text selected, replace it
+        editor.edit(editBuilder => {
+            editBuilder.replace(selection, result);
+        });
+    }
+
+    return `Converted to list: ${result}`;
 }
