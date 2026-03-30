@@ -15,21 +15,25 @@ const path = require('path');
  * }
  */
 module.exports.macroCommands = {
-    跳转BV: {
-        no: 1,
-        func: openBV
-    },
     时间调整: {
         no: 1,
         func: adjustTime
     },
-    替换歌名为BV: {
+    跳转BV: {
         no: 1,
-        func: replaceWithBV
+        func: openBV
     },
     字符串转列表: {
         no: 1,
         func: str2listMacro
+    },
+    简化弹幕xml: {
+        no: 1,
+        func: simpleDanmakuXml
+    },
+    替换歌名为BV: {
+        no: 1,
+        func: replaceWithBV
     },
 };
 
@@ -348,4 +352,22 @@ async function str2listMacro() {
     }
 
     return `Converted to list: ${result}`;
+}
+
+async function simpleDanmakuXml() {
+    const editor = vscode.window.activeTextEditor;
+    if (!editor) {
+        return 'Editor is not opening.';
+    }
+    
+    // 正则表达式匹配弹幕XML行
+    const danmakuRegex = /<d\s+p="([\d.]+),[^"\>]*"\s+user="([^"]*)"[^\>]*>([^<]*)<\/d>/g;
+    
+    await searchAndReplace(danmakuRegex, (match, timeStr, user, content) => {
+        // 转换时间格式
+        const seconds = parseFloat(timeStr);
+        const formattedTime = formatSecondsToHMS(seconds);
+        // 返回简化格式
+        return `${formattedTime} ${content} ${user}`;
+    });
 }
